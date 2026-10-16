@@ -6,12 +6,12 @@ export const birthday = { month: 10, day: 17 }; // ← set the real birthday (mo
 export const intro = "I made you a little corner of the internet. A place filled with photographs, words I wanted you to hear, and songs that reminded me of you. Take your time here. Every little thing has a reason for being here.";
 // Replace files in /public/photos (or edit src). Captions are placeholders.
 export const photos = [
-  { src: "/photos/afdho1.jpe", caption: "a little moment worth keeping" },
-  { src: "/photos/afdho2.jpe", caption: "one of my favorite memories" },
-  { src: "/photos/afdho3.jpe", caption: "wish I could keep this moment forever" },
-  { src: "/photos/afdho4.jpe", caption: "you, being you ♡" },
-  { src: "/photos/afdho5.jpe", caption: "a memory I never want to forget" },
-  { src: "/photos/afdho6.jpe", caption: "just a little piece of happiness" },
+  { src: "/afdho1.jpe", caption: "a little moment worth keeping" },
+  { src: "/afdho2.jpe", caption: "one of my favorite memories" },
+  { src: "/afdho3.jpe", caption: "wish I could keep this moment forever" },
+  { src: "/afdho4.jpe", caption: "you, being you ♡" },
+  { src: "/afdho5.jpe", caption: "a memory I never want to forget" },
+  { src: "/afdho6.jpe", caption: "just a little piece of happiness" },
 ];
 export const letter = [
   "Happy birthday, Sayangkuu.",
